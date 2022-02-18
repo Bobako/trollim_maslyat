@@ -7,7 +7,7 @@
      timestamp(дата и время снимка в секундах от начала эпохи) (вот эту хуйню лучше преобразовать в человекочитаемый формат. Подробнее - https://pythonworld.ru/moduli/modul-datetime.html)
      }
      
-Результаты записать в файлы в форматах:
+Результаты (массив полученных) записать в файлы в форматах:
     а) Json (https://python-scripts.com/json)
     б) csv (https://docs.python.org/3/library/csv.html#writer-objects - юзай DictWriter)
     в) Табличку в эксель (https://openpyxl.readthedocs.io/en/stable/ )
